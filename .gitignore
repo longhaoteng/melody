@@ -3,3 +3,11 @@ benchmark
 *.swp
 coverage.out
 Makefile
+
+# Develop tools
+/.vscode/
+/.idea/
+*.iws
+*.iml
+*.ipr
+*.log*
